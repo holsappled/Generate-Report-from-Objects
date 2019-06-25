@@ -1,0 +1,36 @@
+TERMINAL OUTPUT project_03_Input01.txt
+
+
+ ----jGRASP exec: java DerekHolsapple_RoscoeWelch_03 01
+Reading data from file project_03_Input01.txt
+Student with ID: 900123456 was added to the list.
+Grade item with ID: 1 for student ID: 900123456 was added to the list.
+Grade item with ID: 2 for student ID: 900123456 was added to the list.
+Grade item with ID: 3 for student ID: 900123456 was added to the list.
+Grade item with ID: 4 for student ID: 900123456 was added to the list.
+Grade item with ID: 5 for student ID: 900123456 was added to the list.
+Student with ID: 900123463 was added to the list.
+Grade item with ID: 1 for student ID: 900123463 was added to the list.
+Grade item with ID: 2 for student ID: 900123463 was added to the list.
+Grade item with ID: 3 for student ID: 900123463 was added to the list.
+Grade item with ID: 4 for student ID: 900123463 was added to the list.
+Grade item with ID: 5 for student ID: 900123463 was added to the list.
+Student with ID: 900123458 was added to the list.
+Grade item with ID: 1 for student ID: 900123458 was added to the list.
+Grade item with ID: 2 for student ID: 900123458 was added to the list.
+Grade item with ID: 3 for student ID: 900123458 was added to the list.
+Grade item with ID: 4 for student ID: 900123458 was added to the list.
+Grade item with ID: 5 for student ID: 900123458 was added to the list.
+Grade item with ID: 6 for student ID: 900123458 was added to the list.
+Student with ID: 900123459 was added to the list.
+Grade item with ID: 1 for student ID: 900123459 was added to the list.
+Grade item with ID: 2 for student ID: 900123459 was added to the list.
+Student with ID: 900123457 was added to the list.
+Grade item with ID: 1 for student ID: 900123457 was added to the list.
+Grade item with ID: 2 for student ID: 900123457 was added to the list.
+Grade item with ID: 3 for student ID: 900123457 was added to the list.
+Grade item with ID: 4 for student ID: 900123457 was added to the list.
+Grade item with ID: 5 for student ID: 900123457 was added to the list.
+Grade item with ID: 6 for student ID: 900123457 was added to the list.
+
+ ----jGRASP: operation complete.

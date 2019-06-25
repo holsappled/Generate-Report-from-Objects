@@ -1,0 +1,77 @@
+TERMINAL OUTPUT project_03_Input03.txt
+
+ ----jGRASP exec: java DerekHolsapple_RoscoeWelch_03 01
+Reading data from file project_03_Input03.txt
+Student with ID: 900123456 does not exist
+
+Error On line #2 java.lang.IllegalArgumentException: Invalid data:
+All following fields must not be blank. 
+(Student Id, Course Id, Item Type, Date)
+Item type must be one of the following (case sensitive): 
+(HW, Quiz, Class Work, Test, Final)
+Max Score must be more than 1.
+Actual Score must be a value between 0 and maxScore.
+
+
+Error On line #3 java.lang.IllegalArgumentException: Invalid data:
+All following fields must not be blank. 
+(Student Id, Course Id, Item Type, Date)
+Item type must be one of the following (case sensitive): 
+(HW, Quiz, Class Work, Test, Final)
+Max Score must be more than 1.
+Actual Score must be a value between 0 and maxScore.
+
+Grade item with ID: 3 for student ID: 900123456 was added to the list.
+
+Error On line #5 java.lang.IllegalArgumentException: Invalid data:
+All following fields must not be blank. 
+(Student Id, Course Id, Item Type, Date)
+Item type must be one of the following (case sensitive): 
+(HW, Quiz, Class Work, Test, Final)
+Max Score must be more than 1.
+Actual Score must be a value between 0 and maxScore.
+
+
+Error On line #6 java.lang.IllegalArgumentException: Invalid data:
+All following fields must not be blank. 
+(Student Id, Course Id, Item Type, Date)
+Item type must be one of the following (case sensitive): 
+(HW, Quiz, Class Work, Test, Final)
+Max Score must be more than 1.
+Actual Score must be a value between 0 and maxScore.
+
+Student with ID: 900123463 was added to the list.
+Grade item with ID: 1 for student ID: 900123463 was added to the list.
+Grade item with ID: 2 for student ID: 900123463 was added to the list.
+Grade item with ID: 3 for student ID: 900123463 was added to the list.
+
+Error On line #11 java.lang.IllegalArgumentException: Invalid data:
+All following fields must not be blank. 
+(Student Id, Course Id, Item Type, Date)
+Item type must be one of the following (case sensitive): 
+(HW, Quiz, Class Work, Test, Final)
+Max Score must be more than 1.
+Actual Score must be a value between 0 and maxScore.
+
+Grade item with ID: 5 for student ID: 900123463 was added to the list.
+Student with ID: 900123458 was added to the list.
+Second term on line: 14 was .
+ Second term must be either "ADD" or "DEL" to continue.
+Grade item with ID: 2 for student ID: 900123458 was added to the list.
+Grade item with ID: 3 for student ID: 900123458 does not exist.
+Grade item with ID: 4 for student ID: 900123458 was added to the list.
+Second term on line: 18 was .
+ Second term must be either "ADD" or "DEL" to continue.
+Grade item with ID: 6 for student ID: 900123458 was added to the list.
+Student with ID: 900123459 does not exist
+Grade item with ID: 1 for student ID: 900123459 was added to the list.
+Grade item with ID: 2 for student ID: 900123459 was added to the list.
+Student with ID: 900123457 was added to the list.
+Grade item with ID: 1 for student ID: 900123459 does not exist.
+Grade item with ID: 2 for student ID: 900123459 does not exist.
+Grade item with ID: 3 for student ID: 900123459 does not exist.
+Grade item with ID: 4 for student ID: 900123459 does not exist.
+Grade item with ID: 5 for student ID: 900123459 does not exist.
+Grade item with ID: 6 for student ID: 900123459 does not exist.
+
+ ----jGRASP: operation complete.
